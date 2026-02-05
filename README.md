@@ -64,12 +64,13 @@ esikDegeri değişkenini kendi toprağınızın kuruluğuna göre (0-1023 arası
 
 Kodu Arduino'nuza yükleyin ve Seri Port Ekranı'nı (9600 baud) açarak sistemi izleyin.
 
-### Örnek Görsel
+### Örnek Görseller
 ---------------
+<img width="487" height="638" alt="image" src="https://github.com/user-attachments/assets/17237e3d-4fb9-4e7a-85ce-edc7cc132747" />
 
 
+<img width="494" height="662" alt="image" src="https://github.com/user-attachments/assets/14013de7-d7f6-4f93-8a13-abf6880683eb" />
 
-<img width="527" height="689" alt="image" src="https://github.com/user-attachments/assets/b2e45b73-0872-40c6-97e2-673cb8fb9e11" />
 
 
 
